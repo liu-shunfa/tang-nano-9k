@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Softs/Gowin/Projects/LCD_fpga_project/src/LCD_Top.v",
+  "InstLine" : 4,
+  "InstName" : "lcd_top",
+  "ModuleFile" : "C:/Softs/Gowin/Projects/LCD_fpga_project/src/LCD_Top.v",
+  "ModuleLine" : 4,
+  "ModuleName" : "lcd_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Softs/Gowin/Projects/LCD_fpga_project/src/LCD_Top.v",
+    "InstLine" : 20,
+    "InstName" : "lcd_draw_1",
+    "ModuleFile" : "C:/Softs/Gowin/Projects/LCD_fpga_project/src/LCD_Draw.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "lcd_draw"
+   },
+   {
+    "InstFile" : "C:/Softs/Gowin/Projects/LCD_fpga_project/src/LCD_Top.v",
+    "InstLine" : 27,
+    "InstName" : "lcd_init_1",
+    "ModuleFile" : "C:/Softs/Gowin/Projects/LCD_fpga_project/src/LCD_Init.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "lcd_init"
+   }
+  ]
+ }
+]

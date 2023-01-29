@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="lcd_top">
+    <SubModule name="lcd_draw_1" Lut="74"/>
+    <SubModule name="lcd_init_1" Register="74" Alu="21" Lut="268"/>
+</Module>
